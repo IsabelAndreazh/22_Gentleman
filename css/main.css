@@ -19,6 +19,13 @@
 .header{
 	padding: 0px 5% 3px 5%;
 }
+.house{
+	color: #DD1F4E;
+}
+.twitter{
+	width: 100px;
+	height: 300px;
+}
 button{
 	color: white;
 	background-color: gray;
@@ -36,10 +43,11 @@ button{
 }
 .follow{
 	color: white;
-	background-color: pink ;
+	background-color: #DD1F4E; ;
 	width: 70px;
 	border-radius: 0px;
 	height: 20px;
+	border:none;
 }
 
 
